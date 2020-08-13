@@ -1,1 +1,1 @@
-Bayesian Statistics 
+ST4234 Bayesian Statistics 
